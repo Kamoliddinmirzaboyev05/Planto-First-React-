@@ -301,7 +301,7 @@ header {
 .plants:hover,
 .logo:hover,
 .heroImg:hover {
-  filter: drop-shadow(1px 1px 5px greenyellow);
+  filter: drop-shadow(0px 0px 2px greenyellow);
 }
 .navBtns img:hover {
   mix-blend-mode: difference;
