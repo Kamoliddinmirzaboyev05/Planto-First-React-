@@ -12,7 +12,7 @@ function App() {
         <nav>
           <div className="container">
             <div className="logo">
-              <img src="/public/logom.svg" alt="" />
+              <img src="/logom.svg" alt="" />
             </div>
             <ul className="links">
               <li>
@@ -29,9 +29,9 @@ function App() {
               </li>
             </ul>
             <div className="navBtns">
-              <img src="/public/search.svg" alt="" />
-              <img src="/public/cart.svg" alt="" />
-              <img src="/public/bar.svg" alt="" />
+              <img src="/search.svg" alt="" />
+              <img src="/cart.svg" alt="" />
+              <img src="/bar.svg" alt="" />
             </div>
           </div>
         </nav>
@@ -55,26 +55,26 @@ function App() {
                 </div>
               </div>
               <div className="heroImg">
-                <img src="/public/heroimg.png" alt="" />
+                <img src="/heroimg.png" alt="" />
                 <div className="heroBoxText">
                   <p className="boxTitle">Trendy House Plant</p>
                   <p className="productName">Calathea plant</p>
                   <i className="fas fa-chevron-right toright"></i>
                   <button className="buyNow">Buy Now</button>
                   <div className="dots">
-                    <img src="/public/active.svg" alt="" />
-                    <img src="/public/dot.svg" alt="" />
-                    <img src="/public/dot.svg" alt="" />
+                    <img src="/active.svg" alt="" />
+                    <img src="/dot.svg" alt="" />
+                    <img src="/dot.svg" alt="" />
                   </div>
                 </div>
               </div>
             </div>
             <div className="heroComment">
               <div className="commentWriter">
-                <img src="/public/writer1.png" alt="" />
+                <img src="/writer1.png" alt="" />
                 <div className="rateWriter">
                   <p>Alena Patel</p>
-                  <img src="/public/starst.svg" alt="" />
+                  <img src="/starst.svg" alt="" />
                 </div>
               </div>
               <p>
@@ -86,7 +86,7 @@ function App() {
               <h2 className="plantsTitle">Our Trendy plants</h2>
               <div className="plants">
                 <div className="plantsImg">
-                  <img src="/public/heroplant.png" alt="" />
+                  <img src="/heroplant.png" alt="" />
                 </div>
                 <div className="plantsText">
                   <h2>For Small Decs Ai Plat</h2>
@@ -99,14 +99,14 @@ function App() {
                   <div className="plantsBtns">
                     <button className="explore">Explore</button>
                     <button className="cartBtn">
-                      <img src="/public/cart.svg" alt="" />
+                      <img src="/cart.svg" alt="" />
                     </button>
                   </div>
                 </div>
               </div>
               <div className="plants fresh">
                 <div className="plantsImg">
-                  <img src="/public/gul2.png" alt="" />
+                  <img src="/gul2.png" alt="" />
                 </div>
                 <div className="plantsText">
                   <h2>For Small Decs Ai Plat</h2>
@@ -119,7 +119,7 @@ function App() {
                   <div className="plantsBtns">
                     <button className="explore">Explore</button>
                     <button className="cartBtn">
-                      <img src="/public/cart.svg" alt="" />
+                      <img src="/cart.svg" alt="" />
                     </button>
                   </div>
                 </div>
@@ -135,7 +135,7 @@ function App() {
             <div className="block">
               <div className="box">
                 <div className="boxImg">
-                  <img src="/public/box1.png" alt="" />
+                  <img src="/box1.png" alt="" />
                 </div>
                 <div className="boxText">
                   <h2>Calathea plant</h2>
@@ -143,14 +143,14 @@ function App() {
                   <div className="price">
                     <h2>Rs. 359/-</h2>
                     <button>
-                      <img src="/public/cart.svg" alt="" />
+                      <img src="/cart.svg" alt="" />
                     </button>
                   </div>
                 </div>
               </div>
               <div className="box">
                 <div className="boxImg">
-                  <img src="/public/box1.png" alt="" />
+                  <img src="/box1.png" alt="" />
                 </div>
                 <div className="boxText">
                   <h2>Calathea plant</h2>
@@ -158,14 +158,14 @@ function App() {
                   <div className="price">
                     <h2>Rs. 359/-</h2>
                     <button>
-                      <img src="/public/cart.svg" alt="" />
+                      <img src="/cart.svg" alt="" />
                     </button>
                   </div>
                 </div>
               </div>
               <div className="box">
                 <div className="boxImg">
-                  <img src="/public/box1.png" alt="" />
+                  <img src="/box1.png" alt="" />
                 </div>
                 <div className="boxText">
                   <h2>Calathea plant</h2>
@@ -173,14 +173,14 @@ function App() {
                   <div className="price">
                     <h2>Rs. 359/-</h2>
                     <button>
-                      <img src="/public/cart.svg" alt="" />
+                      <img src="/cart.svg" alt="" />
                     </button>
                   </div>
                 </div>
               </div>
               <div className="box">
                 <div className="boxImg">
-                  <img src="/public/box1.png" alt="" />
+                  <img src="/box1.png" alt="" />
                 </div>
                 <div className="boxText">
                   <h2>Calathea plant</h2>
@@ -188,14 +188,14 @@ function App() {
                   <div className="price">
                     <h2>Rs. 359/-</h2>
                     <button>
-                      <img src="/public/cart.svg" alt="" />
+                      <img src="/cart.svg" alt="" />
                     </button>
                   </div>
                 </div>
               </div>
               <div className="box">
                 <div className="boxImg">
-                  <img src="/public/box1.png" alt="" />
+                  <img src="/box1.png" alt="" />
                 </div>
                 <div className="boxText">
                   <h2>Calathea plant</h2>
@@ -203,14 +203,14 @@ function App() {
                   <div className="price">
                     <h2>Rs. 359/-</h2>
                     <button>
-                      <img src="/public/cart.svg" alt="" />
+                      <img src="/cart.svg" alt="" />
                     </button>
                   </div>
                 </div>
               </div>
               <div className="box">
                 <div className="boxImg">
-                  <img src="/public/box1.png" alt="" />
+                  <img src="/box1.png" alt="" />
                 </div>
                 <div className="boxText">
                   <h2>Calathea plant</h2>
@@ -218,7 +218,7 @@ function App() {
                   <div className="price">
                     <h2>Rs. 359/-</h2>
                     <button>
-                      <img src="/public/cart.svg" alt="" />
+                      <img src="/cart.svg" alt="" />
                     </button>
                   </div>
                 </div>
@@ -231,13 +231,13 @@ function App() {
             <h2 className="sectionTitleComment">Customer Review</h2>
             <div className="commentBlock">
               <div className="commentBox">
-                <img src="/public/commentback.png" alt="" />
+                <img src="/commentback.png" alt="" />
                 <div className="commentText">
                   <div className="commentWriter">
-                    <img src="/public/writer1.png" alt="" />
+                    <img src="/writer1.png" alt="" />
                     <div className="rateWriter">
                       <p className="writerName">Alena Patel</p>
-                      <img src="/public/starst.svg" alt="" />
+                      <img src="/starst.svg" alt="" />
                     </div>
                   </div>
                   <p>
@@ -248,13 +248,13 @@ function App() {
                 </div>
               </div>
               <div className="commentBox">
-                <img src="/public/commentback.png" alt="" />
+                <img src="/commentback.png" alt="" />
                 <div className="commentText">
                   <div className="commentWriter">
-                    <img src="/public/writer1.png" alt="" />
+                    <img src="/writer1.png" alt="" />
                     <div className="rateWriter">
                       <p className="writerName">Alena Patel</p>
-                      <img src="/public/starst.svg" alt="" />
+                      <img src="/starst.svg" alt="" />
                     </div>
                   </div>
                   <p>
@@ -265,13 +265,13 @@ function App() {
                 </div>
               </div>
               <div className="commentBox">
-                <img src="/public/commentback.png" alt="" />
+                <img src="/commentback.png" alt="" />
                 <div className="commentText">
                   <div className="commentWriter">
-                    <img src="/public/writer1.png" alt="" />
+                    <img src="/writer1.png" alt="" />
                     <div className="rateWriter">
                       <p className="writerName">Alena Patel</p>
-                      <img src="/public/starst.svg" alt="" />
+                      <img src="/starst.svg" alt="" />
                     </div>
                   </div>
                   <p>
@@ -289,7 +289,7 @@ function App() {
             <h2 className="sectionTitleBest">Our Best o2</h2>
             <div className="plants">
               <div className="plantsImg">
-                <img src="/public/best.png" alt="" />
+                <img src="/best.png" alt="" />
               </div>
               <div className="plantsText">
                 <h2 className="bestTitle">
@@ -320,7 +320,7 @@ function App() {
       <footer>
         <div className="container">
           <div className="col">
-            <img src="/public/logom.svg" alt="" />
+            <img src="/logom.svg" alt="" />
             <p className="footerInfo">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua.

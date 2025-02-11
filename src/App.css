@@ -17,7 +17,8 @@ nav .container {
   display: flex;
   align-items: start;
   justify-content: space-between;
-  padding: 20px 0;
+  padding: 10px 0;
+  padding-bottom: 100px;
 }
 .logo {
   padding: 0;
@@ -28,7 +29,7 @@ nav .container {
   justify-content: center;
   gap: 60px;
   list-style: none;
-  padding: 20px 0;
+  padding-top: 40px;
 }
 .links a {
   text-decoration: none;
@@ -41,7 +42,7 @@ nav .container {
   align-items: center;
   justify-content: center;
   gap: 59px;
-  padding: 20px 0;
+  padding-top: 40px;
 }
 
 /* Styling hero section */
