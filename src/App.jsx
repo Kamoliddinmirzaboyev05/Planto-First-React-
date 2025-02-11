@@ -12,7 +12,7 @@ function App() {
         <nav>
           <div className="container">
             <div className="logo">
-              <img src="/logom.svg" alt="" />
+              <img src="logom.svg" alt="" />
             </div>
             <ul className="links">
               <li>
@@ -29,9 +29,9 @@ function App() {
               </li>
             </ul>
             <div className="navBtns">
-              <img src="/search.svg" alt="" />
-              <img src="/cart.svg" alt="" />
-              <img src="/bar.svg" alt="" />
+              <img src="search.svg" alt="" />
+              <img src="cart.svg" alt="" />
+              <img src="bar.svg" alt="" />
             </div>
           </div>
         </nav>
@@ -55,26 +55,26 @@ function App() {
                 </div>
               </div>
               <div className="heroImg">
-                <img src="/heroimg.png" alt="" />
+                <img src="heroimg.png" alt="" />
                 <div className="heroBoxText">
                   <p className="boxTitle">Trendy House Plant</p>
                   <p className="productName">Calathea plant</p>
                   <i className="fas fa-chevron-right toright"></i>
                   <button className="buyNow">Buy Now</button>
                   <div className="dots">
-                    <img src="/active.svg" alt="" />
-                    <img src="/dot.svg" alt="" />
-                    <img src="/dot.svg" alt="" />
+                    <img src="active.svg" alt="" />
+                    <img src="dot.svg" alt="" />
+                    <img src="dot.svg" alt="" />
                   </div>
                 </div>
               </div>
             </div>
             <div className="heroComment">
               <div className="commentWriter">
-                <img src="/writer1.png" alt="" />
+                <img src="writer1.png" alt="" />
                 <div className="rateWriter">
                   <p>Alena Patel</p>
-                  <img src="/starst.svg" alt="" />
+                  <img src="starst.svg" alt="" />
                 </div>
               </div>
               <p>
@@ -86,7 +86,7 @@ function App() {
               <h2 className="plantsTitle">Our Trendy plants</h2>
               <div className="plants">
                 <div className="plantsImg">
-                  <img src="/heroplant.png" alt="" />
+                  <img src="heroplant.png" alt="" />
                 </div>
                 <div className="plantsText">
                   <h2>For Small Decs Ai Plat</h2>
