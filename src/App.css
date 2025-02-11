@@ -47,7 +47,7 @@ nav .container {
 /* Styling hero section */
 
 header {
-  background-image: url("/public/MacBook\ Pro\ 16_\ -\ 2.png");
+  background-image: url("/MacBook\ Pro\ 16_\ -\ 2.png");
   background-size: 100%;
   background-position: start;
   background-repeat: no-repeat;
@@ -98,7 +98,7 @@ header {
   background-color: transparent;
 }
 .heroImg {
-  background-image: url("/public/imgbk.png");
+  background-image: url("/imgbk.png");
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -277,7 +277,7 @@ header {
 }
 .box {
   width: 390px;
-  background-image: url("/public/boxback.png");
+  background-image: url("/boxback.png");
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
