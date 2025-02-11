@@ -3,7 +3,13 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  transition: all .5s ease;
   font-family: "Inter";
+}
+button:hover{
+  border-color: #56af04;
+  color: #55af01;
+  background-color: rgba(255, 255, 255, 0.271);
 }
 body {
   background-color: #1b2316;
@@ -37,6 +43,9 @@ nav .container {
   font-size: 24px;
   font-weight: 500;
 }
+.links a:hover {
+  color: #55af01;
+}
 .navBtns {
   display: flex;
   align-items: center;
@@ -53,7 +62,7 @@ header {
   background-position: start;
   background-repeat: no-repeat;
 }
-.hero{
+.hero {
   padding-top: 50px;
 }
 .hero .container .heroHead {
@@ -508,7 +517,7 @@ form button {
   font-size: 20px;
   font-weight: 600;
 }
-.copy{
+.copy {
   padding-top: 200px;
   font-size: 20px;
 }

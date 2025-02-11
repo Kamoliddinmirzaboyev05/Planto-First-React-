@@ -150,7 +150,7 @@ function App() {
               </div>
               <div className="box">
                 <div className="boxImg">
-                  <img src="/box1.png" alt="" />
+                  <img src="/box2.png" alt="" />
                 </div>
                 <div className="boxText">
                   <h2>Calathea plant</h2>
@@ -165,7 +165,7 @@ function App() {
               </div>
               <div className="box">
                 <div className="boxImg">
-                  <img src="/box1.png" alt="" />
+                  <img src="/box3.png" alt="" />
                 </div>
                 <div className="boxText">
                   <h2>Calathea plant</h2>
@@ -180,7 +180,7 @@ function App() {
               </div>
               <div className="box">
                 <div className="boxImg">
-                  <img src="/box1.png" alt="" />
+                  <img src="/box4.png" alt="" />
                 </div>
                 <div className="boxText">
                   <h2>Calathea plant</h2>
@@ -195,7 +195,7 @@ function App() {
               </div>
               <div className="box">
                 <div className="boxImg">
-                  <img src="/box1.png" alt="" />
+                  <img src="/box5.png" alt="" />
                 </div>
                 <div className="boxText">
                   <h2>Calathea plant</h2>
@@ -210,7 +210,7 @@ function App() {
               </div>
               <div className="box">
                 <div className="boxImg">
-                  <img src="/box1.png" alt="" />
+                  <img src="/box6.png" alt="" />
                 </div>
                 <div className="boxText">
                   <h2>Calathea plant</h2>
@@ -234,7 +234,7 @@ function App() {
                 <img src="/commentback.png" alt="" />
                 <div className="commentText">
                   <div className="commentWriter">
-                    <img src="/writer1.png" alt="" />
+                    <img src="/commentuser1.png" alt="" />
                     <div className="rateWriter">
                       <p className="writerName">Alena Patel</p>
                       <img src="/starst.svg" alt="" />
@@ -251,7 +251,7 @@ function App() {
                 <img src="/commentback.png" alt="" />
                 <div className="commentText">
                   <div className="commentWriter">
-                    <img src="/writer1.png" alt="" />
+                    <img src="/commentuser2.png" alt="" />
                     <div className="rateWriter">
                       <p className="writerName">Alena Patel</p>
                       <img src="/starst.svg" alt="" />
@@ -268,7 +268,7 @@ function App() {
                 <img src="/commentback.png" alt="" />
                 <div className="commentText">
                   <div className="commentWriter">
-                    <img src="/writer1.png" alt="" />
+                    <img src="/commentuser3.png" alt="" />
                     <div className="rateWriter">
                       <p className="writerName">Alena Patel</p>
                       <img src="/starst.svg" alt="" />
